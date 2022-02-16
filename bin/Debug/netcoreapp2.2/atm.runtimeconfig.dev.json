@@ -1,9 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Adunya\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Adunya\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\amanu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\amanu\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ]
   }
 }

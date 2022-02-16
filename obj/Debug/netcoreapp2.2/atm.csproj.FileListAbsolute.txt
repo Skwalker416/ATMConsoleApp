@@ -59,3 +59,16 @@ C:\Users\Adunya\Desktop\sky\obj\Debug\netcoreapp2.2\atm.csproj.CoreCompileInputs
 C:\Users\Adunya\Desktop\sky\obj\Debug\netcoreapp2.2\atm.dll
 C:\Users\Adunya\Desktop\sky\obj\Debug\netcoreapp2.2\atm.pdb
 C:\Users\Adunya\Desktop\sky\obj\Debug\netcoreapp2.2\atm.genruntimeconfig.cache
+C:\Users\amanu\Documents\sky\bin\Debug\netcoreapp2.2\atm.deps.json
+C:\Users\amanu\Documents\sky\bin\Debug\netcoreapp2.2\atm.runtimeconfig.json
+C:\Users\amanu\Documents\sky\bin\Debug\netcoreapp2.2\atm.runtimeconfig.dev.json
+C:\Users\amanu\Documents\sky\bin\Debug\netcoreapp2.2\atm.dll
+C:\Users\amanu\Documents\sky\bin\Debug\netcoreapp2.2\atm.pdb
+C:\Users\amanu\Documents\sky\obj\Debug\netcoreapp2.2\atm.csproj.AssemblyReference.cache
+C:\Users\amanu\Documents\sky\obj\Debug\netcoreapp2.2\atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanu\Documents\sky\obj\Debug\netcoreapp2.2\atm.AssemblyInfoInputs.cache
+C:\Users\amanu\Documents\sky\obj\Debug\netcoreapp2.2\atm.AssemblyInfo.cs
+C:\Users\amanu\Documents\sky\obj\Debug\netcoreapp2.2\atm.csproj.CoreCompileInputs.cache
+C:\Users\amanu\Documents\sky\obj\Debug\netcoreapp2.2\atm.dll
+C:\Users\amanu\Documents\sky\obj\Debug\netcoreapp2.2\atm.pdb
+C:\Users\amanu\Documents\sky\obj\Debug\netcoreapp2.2\atm.genruntimeconfig.cache
