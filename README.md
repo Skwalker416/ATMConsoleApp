@@ -5,7 +5,7 @@ the console is presented with 2 options at first.
 1. enter ATM card and
 2. exit
 
-after choosing insert atm card an option will be presented to enter the ATM number, we used this as aform of checking an atm card
+after choosing insert atm card an option will be presented to enter the ATM number, we used this as aform of checking an atm card. To test our project use the following provided account number, card number and pin code
 
 Enter ATM Card Number: FullName = "adonya", AccountNumber=123, CardNumber = 123, PinCode = 1111,
                                  "amanuel", AccountNumber=456, CardNumber = 456, PinCode = 2222
